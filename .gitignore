@@ -6,3 +6,12 @@ debug.ipynb
 .netrc
 .copernicusmarine/.copernicusmarine-credentials
 .ipynb_checkpoints
+data/
+outputs/
+*.zarr/
+*.nc
+*.pt
+*.ckpt
+__pycache__/
+.ipynb_checkpoints/
+.netrc
