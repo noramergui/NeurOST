@@ -3,7 +3,6 @@ channels:
   - conda-forge
   - nvidia
   - pytorch
-  - repo/main
   - defaults
 dependencies:
   - python=3.9
