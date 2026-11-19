@@ -1,0 +1,1489 @@
+nohup: ignoring input
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+Mapping 2024-04-08
+Mapping 2024-04-16
+Mapping 2024-04-24
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+Mapping 2024-04-02
+Mapping 2024-04-10
+Mapping 2024-04-18
+Mapping 2024-04-26
+Mapping 2024-04-07
+Mapping 2024-04-15
+Mapping 2024-04-23
+Mapping 2024-05-01
+Mapping 2024-04-06
+Mapping 2024-04-14
+Mapping 2024-04-22
+Mapping 2024-04-30
+Mapping 2024-04-03
+Mapping 2024-04-11
+Mapping 2024-04-19
+Mapping 2024-04-27
+Mapping 2024-04-04
+Mapping 2024-04-12
+Mapping 2024-04-20
+Mapping 2024-04-28
+Mapping 2024-04-05
+Mapping 2024-04-13
+Mapping 2024-04-21
+Mapping 2024-04-29
+Mapping 2024-04-01
+Mapping 2024-04-09
+Mapping 2024-04-17
+Mapping 2024-04-25
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+Mapping 2024-04-08
+Mapping 2024-04-16
+Mapping 2024-04-24
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+Mapping 2024-04-07
+Mapping 2024-04-15
+Mapping 2024-04-23
+Mapping 2024-05-01
+Mapping 2024-04-06
+Mapping 2024-04-14
+Mapping 2024-04-22
+Mapping 2024-04-30
+Mapping 2024-04-05
+Mapping 2024-04-13
+Mapping 2024-04-21
+Mapping 2024-04-29
+Mapping 2024-04-04
+Mapping 2024-04-12
+Mapping 2024-04-20
+Mapping 2024-04-28
+Mapping 2024-04-02
+Mapping 2024-04-10
+Mapping 2024-04-18
+Mapping 2024-04-26
+Mapping 2024-04-03
+Mapping 2024-04-11
+Mapping 2024-04-19
+Mapping 2024-04-27
+Mapping 2024-04-01
+Mapping 2024-04-09
+Mapping 2024-04-17
+Mapping 2024-04-25
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+Mapping 2024-04-08
+Mapping 2024-04-16
+Mapping 2024-04-24
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+Mapping 2024-04-07
+Mapping 2024-04-15
+Mapping 2024-04-23
+Mapping 2024-05-01
+Mapping 2024-04-03
+Mapping 2024-04-11
+Mapping 2024-04-19
+Mapping 2024-04-27
+Mapping 2024-04-06
+Mapping 2024-04-14
+Mapping 2024-04-22
+Mapping 2024-04-30
+Mapping 2024-04-04
+Mapping 2024-04-12
+Mapping 2024-04-20
+Mapping 2024-04-28
+Mapping 2024-04-05
+Mapping 2024-04-13
+Mapping 2024-04-21
+Mapping 2024-04-29
+Mapping 2024-04-01
+Mapping 2024-04-09
+Mapping 2024-04-17
+Mapping 2024-04-25
+Mapping 2024-04-02
+Mapping 2024-04-10
+Mapping 2024-04-18
+Mapping 2024-04-26
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+Mapping 2024-04-08
+Mapping 2024-04-16
+Mapping 2024-04-24
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+Mapping 2024-04-07
+Mapping 2024-04-15
+Mapping 2024-04-23
+Mapping 2024-05-01
+Mapping 2024-04-06
+Mapping 2024-04-14
+Mapping 2024-04-22
+Mapping 2024-04-30
+Mapping 2024-04-01
+Mapping 2024-04-09
+Mapping 2024-04-17
+Mapping 2024-04-25
+Mapping 2024-04-02
+Mapping 2024-04-10
+Mapping 2024-04-18
+Mapping 2024-04-26
+Mapping 2024-04-04
+Mapping 2024-04-12
+Mapping 2024-04-20
+Mapping 2024-04-28
+Mapping 2024-04-03
+Mapping 2024-04-11
+Mapping 2024-04-19
+Mapping 2024-04-27
+Mapping 2024-04-05
+Mapping 2024-04-13
+Mapping 2024-04-21
+Mapping 2024-04-29
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+Mapping 2024-04-08
+Mapping 2024-04-16
+Mapping 2024-04-24
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+Mapping 2024-04-01
+Mapping 2024-04-09
+Mapping 2024-04-17
+Mapping 2024-04-25
+Mapping 2024-04-05
+Mapping 2024-04-13
+Mapping 2024-04-21
+Mapping 2024-04-29
+Mapping 2024-04-02
+Mapping 2024-04-10
+Mapping 2024-04-18
+Mapping 2024-04-26
+Mapping 2024-04-04
+Mapping 2024-04-12
+Mapping 2024-04-20
+Mapping 2024-04-28
+Mapping 2024-04-03
+Mapping 2024-04-11
+Mapping 2024-04-19
+Mapping 2024-04-27
+Mapping 2024-04-07
+Mapping 2024-04-15
+Mapping 2024-04-23
+Mapping 2024-05-01
+Mapping 2024-04-06
+Mapping 2024-04-14
+Mapping 2024-04-22
+Mapping 2024-04-30
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+Mapping 2024-04-08
+Mapping 2024-04-16
+Mapping 2024-04-24
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+Mapping 2024-04-05
+Mapping 2024-04-13
+Mapping 2024-04-21
+Mapping 2024-04-29
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+Mapping 2024-04-02
+Mapping 2024-04-10
+Mapping 2024-04-18
+Mapping 2024-04-26
+Mapping 2024-04-06
+Mapping 2024-04-14
+Mapping 2024-04-22
+Mapping 2024-04-30
+Mapping 2024-04-07
+Mapping 2024-04-15
+Mapping 2024-04-23
+Mapping 2024-05-01
+Mapping 2024-04-04
+Mapping 2024-04-12
+Mapping 2024-04-20
+Mapping 2024-04-28
+Mapping 2024-04-03
+Mapping 2024-04-11
+Mapping 2024-04-19
+Mapping 2024-04-27
+Mapping 2024-04-01
+Mapping 2024-04-09
+Mapping 2024-04-17
+Mapping 2024-04-25
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+Mapping 2024-04-08
+Mapping 2024-04-16
+Mapping 2024-04-24
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+Mapping 2024-04-03
+Mapping 2024-04-11
+Mapping 2024-04-19
+Mapping 2024-04-27
+Mapping 2024-04-02
+Mapping 2024-04-10
+Mapping 2024-04-18
+Mapping 2024-04-26
+Mapping 2024-04-04
+Mapping 2024-04-12
+Mapping 2024-04-20
+Mapping 2024-04-28
+Mapping 2024-04-05
+Mapping 2024-04-13
+Mapping 2024-04-21
+Mapping 2024-04-29
+Mapping 2024-04-07
+Mapping 2024-04-15
+Mapping 2024-04-23
+Mapping 2024-05-01
+Mapping 2024-04-06
+Mapping 2024-04-14
+Mapping 2024-04-22
+Mapping 2024-04-30
+Mapping 2024-04-01
+Mapping 2024-04-09
+Mapping 2024-04-17
+Mapping 2024-04-25
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+Mapping 2024-04-08
+Mapping 2024-04-16
+Mapping 2024-04-24
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+Mapping 2024-04-04
+Mapping 2024-04-12
+Mapping 2024-04-20
+Mapping 2024-04-28
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+Mapping 2024-04-06
+Mapping 2024-04-14
+Mapping 2024-04-22
+Mapping 2024-04-30
+Mapping 2024-04-02
+Mapping 2024-04-10
+Mapping 2024-04-18
+Mapping 2024-04-26
+Mapping 2024-04-05
+Mapping 2024-04-13
+Mapping 2024-04-21
+Mapping 2024-04-29
+Mapping 2024-04-03
+Mapping 2024-04-11
+Mapping 2024-04-19
+Mapping 2024-04-27
+Mapping 2024-04-07
+Mapping 2024-04-15
+Mapping 2024-04-23
+Mapping 2024-05-01
+Mapping 2024-04-01
+Mapping 2024-04-09
+Mapping 2024-04-17
+Mapping 2024-04-25
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+Mapping 2024-04-08
+Mapping 2024-04-16
+Mapping 2024-04-24
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+Mapping 2024-04-07
+Mapping 2024-04-15
+Mapping 2024-04-23
+Mapping 2024-05-01
+Mapping 2024-04-03
+Mapping 2024-04-11
+Mapping 2024-04-19
+Mapping 2024-04-27
+Mapping 2024-04-05
+Mapping 2024-04-13
+Mapping 2024-04-21
+Mapping 2024-04-29
+Mapping 2024-04-04
+Mapping 2024-04-12
+Mapping 2024-04-20
+Mapping 2024-04-28
+Mapping 2024-04-06
+Mapping 2024-04-14
+Mapping 2024-04-22
+Mapping 2024-04-30
+Mapping 2024-04-02
+Mapping 2024-04-10
+Mapping 2024-04-18
+Mapping 2024-04-26
+Mapping 2024-04-01
+Mapping 2024-04-09
+Mapping 2024-04-17
+Mapping 2024-04-25
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+Mapping 2024-04-08
+Mapping 2024-04-16
+Mapping 2024-04-24
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+Mapping 2024-04-05
+Mapping 2024-04-13
+Mapping 2024-04-21
+Mapping 2024-04-29
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+Mapping 2024-04-01
+Mapping 2024-04-09
+Mapping 2024-04-17
+Mapping 2024-04-25
+Mapping 2024-04-06
+Mapping 2024-04-14
+Mapping 2024-04-22
+Mapping 2024-04-30
+Mapping 2024-04-03
+Mapping 2024-04-11
+Mapping 2024-04-19
+Mapping 2024-04-27
+Mapping 2024-04-07
+Mapping 2024-04-15
+Mapping 2024-04-23
+Mapping 2024-05-01
+Mapping 2024-04-04
+Mapping 2024-04-12
+Mapping 2024-04-20
+Mapping 2024-04-28
+Mapping 2024-04-02
+Mapping 2024-04-10
+Mapping 2024-04-18
+Mapping 2024-04-26
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+Mapping 2024-04-08
+Mapping 2024-04-16
+Mapping 2024-04-24
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+Mapping 2024-04-05
+Mapping 2024-04-13
+Mapping 2024-04-21
+Mapping 2024-04-29
+Mapping 2024-04-06
+Mapping 2024-04-14
+Mapping 2024-04-22
+Mapping 2024-04-30
+Mapping 2024-04-04
+Mapping 2024-04-12
+Mapping 2024-04-20
+Mapping 2024-04-28
+Mapping 2024-04-07
+Mapping 2024-04-15
+Mapping 2024-04-23
+Mapping 2024-05-01
+Mapping 2024-04-01
+Mapping 2024-04-09
+Mapping 2024-04-17
+Mapping 2024-04-25
+Mapping 2024-04-03
+Mapping 2024-04-11
+Mapping 2024-04-19
+Mapping 2024-04-27
+Mapping 2024-04-02
+Mapping 2024-04-10
+Mapping 2024-04-18
+Mapping 2024-04-26
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+Mapping 2024-04-08
+Mapping 2024-04-16
+Mapping 2024-04-24
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+Mapping 2024-04-05
+Mapping 2024-04-13
+Mapping 2024-04-21
+Mapping 2024-04-29
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+Mapping 2024-04-01
+Mapping 2024-04-09
+Mapping 2024-04-17
+Mapping 2024-04-25
+Mapping 2024-04-07
+Mapping 2024-04-15
+Mapping 2024-04-23
+Mapping 2024-05-01
+Mapping 2024-04-06
+Mapping 2024-04-14
+Mapping 2024-04-22
+Mapping 2024-04-30
+Mapping 2024-04-02
+Mapping 2024-04-10
+Mapping 2024-04-18
+Mapping 2024-04-26
+Mapping 2024-04-03
+Mapping 2024-04-11
+Mapping 2024-04-19
+Mapping 2024-04-27
+Mapping 2024-04-04
+Mapping 2024-04-12
+Mapping 2024-04-20
+Mapping 2024-04-28
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+Mapping 2024-04-08
+Mapping 2024-04-16
+Mapping 2024-04-24
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+Mapping 2024-04-02
+Mapping 2024-04-10
+Mapping 2024-04-18
+Mapping 2024-04-26
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+Mapping 2024-04-01
+Mapping 2024-04-09
+Mapping 2024-04-17
+Mapping 2024-04-25
+Mapping 2024-04-05
+Mapping 2024-04-13
+Mapping 2024-04-21
+Mapping 2024-04-29
+Mapping 2024-04-07
+Mapping 2024-04-15
+Mapping 2024-04-23
+Mapping 2024-05-01
+Mapping 2024-04-06
+Mapping 2024-04-14
+Mapping 2024-04-22
+Mapping 2024-04-30
+Mapping 2024-04-03
+Mapping 2024-04-11
+Mapping 2024-04-19
+Mapping 2024-04-27
+Mapping 2024-04-04
+Mapping 2024-04-12
+Mapping 2024-04-20
+Mapping 2024-04-28
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+Mapping 2024-04-08
+Mapping 2024-04-16
+Mapping 2024-04-24
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+Mapping 2024-04-01
+Mapping 2024-04-09
+Mapping 2024-04-17
+Mapping 2024-04-25
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+Mapping 2024-04-06
+Mapping 2024-04-14
+Mapping 2024-04-22
+Mapping 2024-04-30
+Mapping 2024-04-02
+Mapping 2024-04-10
+Mapping 2024-04-18
+Mapping 2024-04-26
+Mapping 2024-04-03
+Mapping 2024-04-11
+Mapping 2024-04-19
+Mapping 2024-04-27
+Mapping 2024-04-07
+Mapping 2024-04-15
+Mapping 2024-04-23
+Mapping 2024-05-01
+Mapping 2024-04-04
+Mapping 2024-04-12
+Mapping 2024-04-20
+Mapping 2024-04-28
+Mapping 2024-04-05
+Mapping 2024-04-13
+Mapping 2024-04-21
+Mapping 2024-04-29
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+Mapping 2024-04-08
+Mapping 2024-04-16
+Mapping 2024-04-24
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+Mapping 2024-04-05
+Mapping 2024-04-13
+Mapping 2024-04-21
+Mapping 2024-04-29
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+Mapping 2024-04-02
+Mapping 2024-04-10
+Mapping 2024-04-18
+Mapping 2024-04-26
+Mapping 2024-04-06
+Mapping 2024-04-14
+Mapping 2024-04-22
+Mapping 2024-04-30
+Mapping 2024-04-04
+Mapping 2024-04-12
+Mapping 2024-04-20
+Mapping 2024-04-28
+Mapping 2024-04-01
+Mapping 2024-04-09
+Mapping 2024-04-17
+Mapping 2024-04-25
+Mapping 2024-04-03
+Mapping 2024-04-11
+Mapping 2024-04-19
+Mapping 2024-04-27
+Mapping 2024-04-07
+Mapping 2024-04-15
+Mapping 2024-04-23
+Mapping 2024-05-01
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+Mapping 2024-04-08
+Mapping 2024-04-16
+Mapping 2024-04-24
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+Mapping 2024-04-01
+Mapping 2024-04-09
+Mapping 2024-04-17
+Mapping 2024-04-25
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+/home/nora/projects/NeurOST/src/merging.py:264: RuntimeWarning: invalid value encountered in divide
+  return pred_sum/np.expand_dims(kernel_sum,axis=-1), mx, my
+Mapping 2024-04-07
+Mapping 2024-04-15
+Mapping 2024-04-23
+Mapping 2024-05-01
+Mapping 2024-04-03
+Mapping 2024-04-11
+Mapping 2024-04-19
+Mapping 2024-04-27
+Mapping 2024-04-04
+Mapping 2024-04-12
+Mapping 2024-04-20
+Mapping 2024-04-28
+Mapping 2024-04-05
+Mapping 2024-04-13
+Mapping 2024-04-21
+Mapping 2024-04-29
+Mapping 2024-04-06
+Mapping 2024-04-14
+Mapping 2024-04-22
+Mapping 2024-04-30
+Mapping 2024-04-02
+Mapping 2024-04-10
+Mapping 2024-04-18
+Mapping 2024-04-26
