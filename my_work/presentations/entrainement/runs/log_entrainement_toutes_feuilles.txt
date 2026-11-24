@@ -1,0 +1,27 @@
+train 10360 ex. (2590 pas par époque), val 2112, test 4048
+RMSE val avant fine-tuning : 10.66 cm
+pas   500 (époque 0.19)  loss train 0.909  RMSE val 9.62 cm  (25 s)
+pas  1000 (époque 0.39)  loss train 0.904  RMSE val 9.58 cm  (49 s)
+pas  1500 (époque 0.58)  loss train 0.914  RMSE val 9.57 cm  (73 s)
+pas  2000 (époque 0.77)  loss train 0.927  RMSE val 9.57 cm  (98 s)
+pas  2500 (époque 0.97)  loss train 0.919  RMSE val 9.56 cm  (122 s)
+pas  3000 (époque 1.16)  loss train 0.931  RMSE val 9.56 cm  (147 s)
+pas  3500 (époque 1.35)  loss train 0.928  RMSE val 9.57 cm  (172 s)
+pas  4000 (époque 1.54)  loss train 0.866  RMSE val 9.56 cm  (196 s)
+pas  4500 (époque 1.74)  loss train 0.870  RMSE val 9.58 cm  (221 s)
+pas  5000 (époque 1.93)  loss train 0.898  RMSE val 9.56 cm  (246 s)
+pas  5500 (époque 2.12)  loss train 0.880  RMSE val 9.57 cm  (271 s)
+pas  6000 (époque 2.32)  loss train 0.879  RMSE val 9.57 cm  (295 s)
+pas  6500 (époque 2.51)  loss train 0.874  RMSE val 9.57 cm  (320 s)
+pas  7000 (époque 2.70)  loss train 0.870  RMSE val 9.58 cm  (344 s)
+pas  7500 (époque 2.90)  loss train 0.872  RMSE val 9.57 cm  (369 s)
+pas  8000 (époque 3.09)  loss train 0.873  RMSE val 9.55 cm  (394 s)
+pas  8500 (époque 3.28)  loss train 0.853  RMSE val 9.58 cm  (419 s)
+pas  9000 (époque 3.47)  loss train 0.852  RMSE val 9.56 cm  (443 s)
+pas  9500 (époque 3.67)  loss train 0.880  RMSE val 9.57 cm  (468 s)
+pas 10000 (époque 3.86)  loss train 0.843  RMSE val 9.59 cm  (492 s)
+meilleur pas : 8000 (époque 3.09), RMSE val 9.55 cm (avant : 10.66 cm)
+TEST NeurOST d'origine           : toutes feuilles 10.22 cm | feuille 23 (96 ex.) 12.52 cm
+TEST fine-tuné feuille 23        : toutes feuilles 9.40 cm | feuille 23 (96 ex.) 11.79 cm
+TEST fine-tuné toutes feuilles   : toutes feuilles 9.30 cm | feuille 23 (96 ex.) 11.79 cm
+FINI

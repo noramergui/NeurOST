@@ -1,0 +1,26 @@
+1859 passages, emprise (-74.96, -45.03, 26.18, 48.8)
+0 / 1859 passages -> 31 exemples
+100 / 1859 passages -> 1650 exemples
+200 / 1859 passages -> 3269 exemples
+300 / 1859 passages -> 4886 exemples
+400 / 1859 passages -> 6594 exemples
+500 / 1859 passages -> 8133 exemples
+600 / 1859 passages -> 9788 exemples
+700 / 1859 passages -> 11321 exemples
+800 / 1859 passages -> 12791 exemples
+900 / 1859 passages -> 14468 exemples
+1000 / 1859 passages -> 15937 exemples
+1100 / 1859 passages -> 17628 exemples
+1200 / 1859 passages -> 19122 exemples
+1300 / 1859 passages -> 20807 exemples
+1400 / 1859 passages -> 22355 exemples
+1500 / 1859 passages -> 23966 exemples
+1600 / 1859 passages -> 25667 exemples
+1700 / 1859 passages -> 27193 exemples
+1800 / 1859 passages -> 28775 exemples
+FINI : 29713 exemples, cible max 2163 points
+jeu
+test      4048
+train    10360
+trou      6054
+val       2112

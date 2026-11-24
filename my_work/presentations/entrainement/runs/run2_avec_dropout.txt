@@ -1,0 +1,41 @@
+cuda
+250 exemples train, 52 exemples val
+entrée : (4, 30, 1, 128, 128)
+cible  : (4, 30, 2134, 3)
+nom dans le fichier : module.enc.enc.0.conv.conv.weight
+2.313857 millions de paramètres
+loss sur un batch : 2.2813963890075684
+RMSE val avant fine-tuning : 13.24 cm
+époque  1  loss train 1.701  RMSE val 12.25 cm
+époque  2  loss train 1.603  RMSE val 12.10 cm
+époque  3  loss train 1.577  RMSE val 12.07 cm
+époque  4  loss train 1.543  RMSE val 12.07 cm
+époque  5  loss train 1.542  RMSE val 12.04 cm
+époque  6  loss train 1.514  RMSE val 12.08 cm
+époque  7  loss train 1.500  RMSE val 12.03 cm
+époque  8  loss train 1.486  RMSE val 12.03 cm
+époque  9  loss train 1.474  RMSE val 12.07 cm
+époque 10  loss train 1.459  RMSE val 12.16 cm
+époque 11  loss train 1.438  RMSE val 12.15 cm
+époque 12  loss train 1.437  RMSE val 12.12 cm
+époque 13  loss train 1.428  RMSE val 12.12 cm
+époque 14  loss train 1.396  RMSE val 12.16 cm
+époque 15  loss train 1.379  RMSE val 12.21 cm
+époque 16  loss train 1.364  RMSE val 12.19 cm
+époque 17  loss train 1.340  RMSE val 12.40 cm
+époque 18  loss train 1.350  RMSE val 12.21 cm
+époque 19  loss train 1.354  RMSE val 12.24 cm
+époque 20  loss train 1.306  RMSE val 12.24 cm
+époque 21  loss train 1.286  RMSE val 12.47 cm
+époque 22  loss train 1.265  RMSE val 12.49 cm
+époque 23  loss train 1.282  RMSE val 12.45 cm
+époque 24  loss train 1.296  RMSE val 12.45 cm
+époque 25  loss train 1.268  RMSE val 12.49 cm
+époque 26  loss train 1.257  RMSE val 12.47 cm
+époque 27  loss train 1.226  RMSE val 12.40 cm
+époque 28  loss train 1.215  RMSE val 12.44 cm
+époque 29  loss train 1.193  RMSE val 12.71 cm
+époque 30  loss train 1.186  RMSE val 12.66 cm
+meilleure époque : 7, RMSE val 12.03 cm (avant : 13.24 cm)
+RMSE sous la fauchée, cet exemple : avant 15.2 cm, après 13.7 cm
+RMSE test : 12.52 cm avant  ->  11.79 cm après fine-tuning

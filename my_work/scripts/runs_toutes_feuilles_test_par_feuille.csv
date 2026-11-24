@@ -1,0 +1,133 @@
+modele,feuille,n_exemples,rmse_cm
+NeurOST d'origine,0,91,5.705671804900115
+NeurOST d'origine,1,88,5.599126720026022
+NeurOST d'origine,2,86,5.171021799074197
+NeurOST d'origine,3,86,4.780011472719448
+NeurOST d'origine,4,90,4.651713213991364
+NeurOST d'origine,5,91,4.513528835682008
+NeurOST d'origine,6,91,9.406622745045846
+NeurOST d'origine,7,91,9.001301159416586
+NeurOST d'origine,8,91,8.478788529011508
+NeurOST d'origine,9,90,7.509069039835208
+NeurOST d'origine,10,91,6.353807301336331
+NeurOST d'origine,11,90,6.051709238553879
+NeurOST d'origine,12,91,5.7118162976436295
+NeurOST d'origine,13,93,12.502548691685051
+NeurOST d'origine,14,95,12.432351530955005
+NeurOST d'origine,15,91,12.096465836158867
+NeurOST d'origine,16,91,11.54900189209904
+NeurOST d'origine,17,96,10.051688364585786
+NeurOST d'origine,18,96,9.444654134080388
+NeurOST d'origine,19,91,8.393572329298612
+NeurOST d'origine,20,93,12.461400315105061
+NeurOST d'origine,21,95,12.617235665165843
+NeurOST d'origine,22,93,13.017635858144425
+NeurOST d'origine,23,96,12.515250497857021
+NeurOST d'origine,24,99,12.109169626178607
+NeurOST d'origine,25,98,11.976697463929328
+NeurOST d'origine,26,97,11.354069573983871
+NeurOST d'origine,27,96,12.402001330703635
+NeurOST d'origine,28,96,12.574749438320355
+NeurOST d'origine,29,97,12.50253868766251
+NeurOST d'origine,30,101,12.064480370353495
+NeurOST d'origine,31,97,11.962735370731888
+NeurOST d'origine,32,97,11.89196947060619
+NeurOST d'origine,33,81,11.282225984479068
+NeurOST d'origine,34,101,11.838998319121853
+NeurOST d'origine,35,95,12.076214128350191
+NeurOST d'origine,36,103,11.647634816640347
+NeurOST d'origine,37,103,11.183132023308065
+NeurOST d'origine,38,103,11.11906418866563
+NeurOST d'origine,39,11,7.496223219258591
+NeurOST d'origine,40,70,7.684656154485646
+NeurOST d'origine,41,94,7.607634791681044
+NeurOST d'origine,42,108,8.391795534815016
+NeurOST d'origine,43,104,8.537876695490688
+fine-tuné feuille 23,0,91,5.220022330316165
+fine-tuné feuille 23,1,88,5.154511489149462
+fine-tuné feuille 23,2,86,4.837368544765702
+fine-tuné feuille 23,3,86,4.42840821431806
+fine-tuné feuille 23,4,90,4.363073385584058
+fine-tuné feuille 23,5,91,4.195243418531647
+fine-tuné feuille 23,6,91,8.200430269326866
+fine-tuné feuille 23,7,91,8.095484339295737
+fine-tuné feuille 23,8,91,7.656699490720185
+fine-tuné feuille 23,9,90,6.8275047690473345
+fine-tuné feuille 23,10,91,5.770947180922686
+fine-tuné feuille 23,11,90,5.69533762872345
+fine-tuné feuille 23,12,91,5.259128505658123
+fine-tuné feuille 23,13,93,10.899869450685234
+fine-tuné feuille 23,14,95,11.287909157427443
+fine-tuné feuille 23,15,91,10.845044794608343
+fine-tuné feuille 23,16,91,10.368738321924775
+fine-tuné feuille 23,17,96,9.109238980702148
+fine-tuné feuille 23,18,96,8.444119586277287
+fine-tuné feuille 23,19,91,7.416604318017811
+fine-tuné feuille 23,20,93,11.074830054484478
+fine-tuné feuille 23,21,95,11.58497422435491
+fine-tuné feuille 23,22,93,12.000549256841351
+fine-tuné feuille 23,23,96,11.793221837980818
+fine-tuné feuille 23,24,99,11.404574787341291
+fine-tuné feuille 23,25,98,11.172094832135757
+fine-tuné feuille 23,26,97,10.376319139089349
+fine-tuné feuille 23,27,96,11.05325517126065
+fine-tuné feuille 23,28,96,11.584472699428106
+fine-tuné feuille 23,29,97,11.791693478942712
+fine-tuné feuille 23,30,101,11.337331750135137
+fine-tuné feuille 23,31,97,11.162500138433817
+fine-tuné feuille 23,32,97,11.165157369804472
+fine-tuné feuille 23,33,81,10.261144756764496
+fine-tuné feuille 23,34,101,11.097581872931128
+fine-tuné feuille 23,35,95,11.351560433827862
+fine-tuné feuille 23,36,103,10.983116019428882
+fine-tuné feuille 23,37,103,10.629548443622872
+fine-tuné feuille 23,38,103,10.202157358703785
+fine-tuné feuille 23,39,11,7.798823583692442
+fine-tuné feuille 23,40,70,7.239373717600446
+fine-tuné feuille 23,41,94,6.983510428609666
+fine-tuné feuille 23,42,108,7.838050931733939
+fine-tuné feuille 23,43,104,8.228686199043302
+fine-tuné toutes feuilles,0,91,5.018456575806212
+fine-tuné toutes feuilles,1,88,4.9099048647858075
+fine-tuné toutes feuilles,2,86,4.580905077358428
+fine-tuné toutes feuilles,3,86,4.334600991992011
+fine-tuné toutes feuilles,4,90,4.1859432478016325
+fine-tuné toutes feuilles,5,91,3.9857080688961144
+fine-tuné toutes feuilles,6,91,8.0328797585438
+fine-tuné toutes feuilles,7,91,7.90229987653345
+fine-tuné toutes feuilles,8,91,7.726877136109037
+fine-tuné toutes feuilles,9,90,6.802619538716184
+fine-tuné toutes feuilles,10,91,5.811517642184528
+fine-tuné toutes feuilles,11,90,5.493413346850487
+fine-tuné toutes feuilles,12,91,5.179140385085537
+fine-tuné toutes feuilles,13,93,10.769686071194654
+fine-tuné toutes feuilles,14,95,10.867807148232503
+fine-tuné toutes feuilles,15,91,10.776752281392474
+fine-tuné toutes feuilles,16,91,10.206217426871639
+fine-tuné toutes feuilles,17,96,9.14040472454513
+fine-tuné toutes feuilles,18,96,8.477950853350993
+fine-tuné toutes feuilles,19,91,7.327889874835583
+fine-tuné toutes feuilles,20,93,10.906243458822615
+fine-tuné toutes feuilles,21,95,11.406422190532593
+fine-tuné toutes feuilles,22,93,12.122177767536309
+fine-tuné toutes feuilles,23,96,11.78744591115432
+fine-tuné toutes feuilles,24,99,11.319101443999779
+fine-tuné toutes feuilles,25,98,11.217542999082895
+fine-tuné toutes feuilles,26,97,10.39258045302856
+fine-tuné toutes feuilles,27,96,10.71455199049285
+fine-tuné toutes feuilles,28,96,11.333428894573563
+fine-tuné toutes feuilles,29,97,11.70547581270175
+fine-tuné toutes feuilles,30,101,11.209823854121824
+fine-tuné toutes feuilles,31,97,11.26259239345858
+fine-tuné toutes feuilles,32,97,11.057363070232533
+fine-tuné toutes feuilles,33,81,10.109853593408838
+fine-tuné toutes feuilles,34,101,10.91887130620026
+fine-tuné toutes feuilles,35,95,11.255407224426964
+fine-tuné toutes feuilles,36,103,10.773160689579909
+fine-tuné toutes feuilles,37,103,10.648564518803465
+fine-tuné toutes feuilles,38,103,10.128717143268753
+fine-tuné toutes feuilles,39,11,7.844095991502279
+fine-tuné toutes feuilles,40,70,7.0383630382934586
+fine-tuné toutes feuilles,41,94,6.773479905548348
+fine-tuné toutes feuilles,42,108,7.633240601264172
+fine-tuné toutes feuilles,43,104,8.123666720826675

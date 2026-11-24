@@ -1,0 +1,25 @@
+18959 fichiers ; boîte : (-74.96, -45.03, 26.18, 48.8)
+0 / 18959 -> 0 passages
+1000 / 18959 -> 98 passages
+ERREUR /data1/data/obs/level3/SWOT/V-3/SWOT_L3_LR_SSH_Expert_003_326_20230912T134416_20230912T143543_v3.0.nc "No variable named 'i_num_line'. Variables on the dataset include ['time', 'calibration', 'cross_t
+2000 / 18959 -> 195 passages
+3000 / 18959 -> 298 passages
+4000 / 18959 -> 393 passages
+5000 / 18959 -> 495 passages
+6000 / 18959 -> 594 passages
+7000 / 18959 -> 689 passages
+8000 / 18959 -> 784 passages
+9000 / 18959 -> 886 passages
+10000 / 18959 -> 981 passages
+11000 / 18959 -> 1084 passages
+12000 / 18959 -> 1179 passages
+13000 / 18959 -> 1280 passages
+14000 / 18959 -> 1378 passages
+15000 / 18959 -> 1478 passages
+16000 / 18959 -> 1569 passages
+17000 / 18959 -> 1673 passages
+ERREUR /data1/data/obs/level3/SWOT/V-3/SWOT_L3_LR_SSH_Expert_031_546_20250426T152448_20250426T161615_v3.0.nc "No variable named 'i_num_line'. Variables on the dataset include ['time', 'calibration', 'cross_t
+ERREUR /data1/data/obs/level3/SWOT/V-3/SWOT_L3_LR_SSH_Expert_031_574_20250427T152519_20250427T161646_v3.0.nc "No variable named 'i_num_line'. Variables on the dataset include ['time', 'calibration', 'cross_t
+ERREUR /data1/data/obs/level3/SWOT/V-3/SWOT_L3_LR_SSH_Expert_032_214_20250505T152927_20250505T162053_v3.0.nc "No variable named 'i_num_line'. Variables on the dataset include ['time', 'calibration', 'cross_t
+18000 / 18959 -> 1761 passages
+FINI : 1859 passages, 4 erreurs -> passages_GS_feuilles.csv
